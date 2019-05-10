@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f020f1e-1d88-4a9a-b102-bd41d828fcb9" name="Default Changelist" comment="" />
+    <list default="true" id="7f020f1e-1d88-4a9a-b102-bd41d828fcb9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +17,7 @@
     <SUITE FILE_PATH="coverage/dataAnalysis$Reindexing_Series_and_DataFrame.coverage" NAME="Reindexing Series and DataFrame Coverage Results" MODIFIED="1557228474849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02Pandas" />
     <SUITE FILE_PATH="coverage/dataAnalysis$Series.coverage" NAME="Series Coverage Results" MODIFIED="1557216159714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02Pandas" />
     <SUITE FILE_PATH="coverage/dataAnalysis$DataFramemerge.coverage" NAME="DataFrame的merge操作 Coverage Results" MODIFIED="1557296960363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03Pandas玩转数据" />
-    <SUITE FILE_PATH="coverage/dataAnalysis$.coverage" NAME="透视表 Coverage Results" MODIFIED="1557456818445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03Pandas玩转数据" />
+    <SUITE FILE_PATH="coverage/dataAnalysis$.coverage" NAME="分组和透视表功能实战 Coverage Results" MODIFIED="1557460112533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03Pandas玩转数据" />
     <SUITE FILE_PATH="coverage/dataAnalysis$Array.coverage" NAME="Array序列化 Coverage Results" MODIFIED="1557278733730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01numpy" />
     <SUITE FILE_PATH="coverage/dataAnalysis$Dataframe_IO.coverage" NAME="Dataframe IO Coverage Results" MODIFIED="1557218371311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02Pandas" />
     <SUITE FILE_PATH="coverage/dataAnalysis$DataFrameIO.coverage" NAME="DataFrameIO Coverage Results" MODIFIED="1557221651399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02Pandas" />
@@ -54,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03Pandas玩转数据/透视表.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="73" selection-start-line="12" selection-start-column="73" selection-end-line="12" selection-end-column="73" />
+            <state relative-caret-position="92">
+              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -66,11 +68,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/dataAnalysis/Lib/site-packages/pandas/core/reshape/pivot.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03Pandas玩转数据/分组和透视表功能实战.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+            <state relative-caret-position="484">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -129,12 +134,13 @@
         <option value="$PROJECT_DIR$/03Pandas玩转数据/数据分组技术GroupBy.py" />
         <option value="$PROJECT_DIR$/03Pandas玩转数据/数据聚合技术Aggregation.py" />
         <option value="$PROJECT_DIR$/03Pandas玩转数据/透视表.py" />
+        <option value="$PROJECT_DIR$/03Pandas玩转数据/分组和透视表功能实战.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="180" />
-    <option name="y" value="206" />
+    <option name="x" value="1657" />
+    <option name="y" value="65" />
     <option name="width" value="1680" />
     <option name="height" value="1017" />
   </component>
@@ -158,10 +164,6 @@
               <item name="dataAnalysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="dataAnalysis" type="462c0819:PsiDirectoryNode" />
               <item name="03Pandas玩转数据" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dataAnalysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -194,7 +196,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.透视表">
+  <component name="RunManager" selected="Python.分组和透视表功能实战">
     <configuration name="透视表" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dataAnalysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,7 +219,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="时间序列数据的采样和画图" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="分组和透视表功能实战" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dataAnalysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,7 +232,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03Pandas玩转数据/时间序列数据的采样和画图.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03Pandas玩转数据/分组和透视表功能实战.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,11 +331,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.分组和透视表功能实战" />
         <item itemvalue="Python.透视表" />
         <item itemvalue="Python.数据聚合技术Aggregation" />
         <item itemvalue="Python.数据分组技术GroupBy" />
         <item itemvalue="Python.数据分箱技术Binning" />
-        <item itemvalue="Python.时间序列数据的采样和画图" />
       </list>
     </recent_temporary>
   </component>
@@ -348,23 +350,23 @@
       <option name="presentableId" value="Default" />
       <updated>1557209730666</updated>
       <workItem from="1557209754549" duration="29596000" />
-      <workItem from="1557374877722" duration="16645000" />
+      <workItem from="1557374877722" duration="19372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46241000" />
+    <option name="totallyTimeSpent" value="48968000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="1672" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19254279" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19254279" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32922733" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.44170403" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16591929" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.44506726" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -373,12 +375,12 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32623318" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.367713" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.40061727" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.40036675" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -386,23 +388,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/dataAnalysis/Lib/site-packages/numpy/lib/npyio.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="550" column="7" selection-start-line="550" selection-start-column="7" selection-end-line="550" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02Pandas/深入理解Series和DataFrame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02Pandas/df1.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -497,13 +482,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03Pandas玩转数据/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1854569746/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-948">
-          <caret line="3757" column="6" selection-start-line="3757" selection-start-column="6" selection-end-line="3757" selection-end-column="6" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03Pandas玩转数据/Series和DataFrame的简单数学运算.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -775,8 +753,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03Pandas玩转数据/透视表.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="73" selection-start-line="12" selection-start-column="73" selection-end-line="12" selection-end-column="73" />
+        <state relative-caret-position="92">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1854569746/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="477" column="4" selection-start-line="477" selection-start-column="4" selection-end-line="477" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03Pandas玩转数据/usa_flights.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03Pandas玩转数据/分组和透视表功能实战.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
