@@ -15,27 +15,62 @@
     <SUITE FILE_PATH="coverage/dataAnalysis$Reindexing_Series_and_DataFrame.coverage" NAME="Reindexing Series and DataFrame Coverage Results" MODIFIED="1557228474849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02Pandas" />
     <SUITE FILE_PATH="coverage/dataAnalysis$Series.coverage" NAME="Series Coverage Results" MODIFIED="1557216159714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02Pandas" />
     <SUITE FILE_PATH="coverage/dataAnalysis$DataFramemerge.coverage" NAME="DataFrame的merge操作 Coverage Results" MODIFIED="1557296960363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03Pandas玩转数据" />
-    <SUITE FILE_PATH="coverage/dataAnalysis$.coverage" NAME="时间序列数据的采样和画图 Coverage Results" MODIFIED="1557388501640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03Pandas玩转数据" />
+    <SUITE FILE_PATH="coverage/dataAnalysis$.coverage" NAME="透视表 Coverage Results" MODIFIED="1557456818445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03Pandas玩转数据" />
     <SUITE FILE_PATH="coverage/dataAnalysis$Array.coverage" NAME="Array序列化 Coverage Results" MODIFIED="1557278733730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01numpy" />
     <SUITE FILE_PATH="coverage/dataAnalysis$Dataframe_IO.coverage" NAME="Dataframe IO Coverage Results" MODIFIED="1557218371311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02Pandas" />
     <SUITE FILE_PATH="coverage/dataAnalysis$DataFrameIO.coverage" NAME="DataFrameIO Coverage Results" MODIFIED="1557221651399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02Pandas" />
+    <SUITE FILE_PATH="coverage/dataAnalysis$Aggregation.coverage" NAME="数据聚合技术Aggregation Coverage Results" MODIFIED="1557452038106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03Pandas玩转数据" />
     <SUITE FILE_PATH="coverage/dataAnalysis$DataFrameIndex.coverage" NAME="重命名DataFrame的Index Coverage Results" MODIFIED="1557283707381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03Pandas玩转数据" />
     <SUITE FILE_PATH="coverage/dataAnalysis$NaN.coverage" NAME="谈一谈NaN Coverage Results" MODIFIED="1557229994526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02Pandas" />
     <SUITE FILE_PATH="coverage/dataAnalysis$SeriesDataFrame.coverage" NAME="Series和DataFrame的排序 Coverage Results" MODIFIED="1557281510658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03Pandas玩转数据" />
+    <SUITE FILE_PATH="coverage/dataAnalysis$GroupBy.coverage" NAME="数据分组技术GroupBy Coverage Results" MODIFIED="1557403976785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03Pandas玩转数据" />
     <SUITE FILE_PATH="coverage/dataAnalysis$Selecting_and_Indexing.coverage" NAME="Selecting and Indexing Coverage Results" MODIFIED="1557223502727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02Pandas" />
     <SUITE FILE_PATH="coverage/dataAnalysis$MappingReplace.coverage" NAME="Mapping和Replace Coverage Results" MODIFIED="1557374982051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02Pandas" />
     <SUITE FILE_PATH="coverage/dataAnalysis$ConcatenateCombine.coverage" NAME="Concatenate和Combine Coverage Results" MODIFIED="1557375876985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03Pandas玩转数据" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03Pandas玩转数据/数据分箱技术Binning.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03Pandas玩转数据/数据分组技术GroupBy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+            <state relative-caret-position="299">
+              <caret line="13" column="10" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="10" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03Pandas玩转数据/数据聚合技术Aggregation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03Pandas玩转数据/透视表.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="73" selection-start-line="12" selection-start-column="73" selection-end-line="12" selection-end-column="73" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/dataAnalysis/Lib/site-packages/pandas/core/reshape/pivot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -52,7 +87,12 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>a</find>
+      <find>DataFrameGroupBy</find>
+      <find>pandas.core.groupby.generic.DataFrameGroupBy</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
     <dirStrings>
       <dir>D:\git\python\dataAnalysis\01numpy</dir>
     </dirStrings>
@@ -85,12 +125,16 @@
         <option value="$PROJECT_DIR$/03Pandas玩转数据/时间序列的操作基础.py" />
         <option value="$PROJECT_DIR$/03Pandas玩转数据/时间序列数据的采样和画图.py" />
         <option value="$PROJECT_DIR$/03Pandas玩转数据/数据分箱技术Binning.py" />
+        <option value="$PROJECT_DIR$/03Pandas玩转数据/import numpy as np import pandas as pd from pandas import Series, DataFrame.py" />
+        <option value="$PROJECT_DIR$/03Pandas玩转数据/数据分组技术GroupBy.py" />
+        <option value="$PROJECT_DIR$/03Pandas玩转数据/数据聚合技术Aggregation.py" />
+        <option value="$PROJECT_DIR$/03Pandas玩转数据/透视表.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1688" />
-    <option name="y" value="-6" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="180" />
+    <option name="y" value="206" />
     <option name="width" value="1680" />
     <option name="height" value="1017" />
   </component>
@@ -150,8 +194,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.数据分箱技术Binning">
-    <configuration name="通过去重进行数据清洗" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.透视表">
+    <configuration name="透视表" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dataAnalysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,29 +208,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03Pandas玩转数据/通过去重进行数据清洗.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="时间序列的操作基础" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="dataAnalysis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03Pandas玩转数据" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03Pandas玩转数据/时间序列的操作基础.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03Pandas玩转数据/透视表.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,6 +239,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="数据聚合技术Aggregation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dataAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03Pandas玩转数据" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03Pandas玩转数据/数据聚合技术Aggregation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="数据分箱技术Binning" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dataAnalysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,6 +275,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03Pandas玩转数据/数据分箱技术Binning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="数据分组技术GroupBy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dataAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03Pandas玩转数据" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03Pandas玩转数据/数据分组技术GroupBy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,35 +327,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="通过apply进行数据预处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="dataAnalysis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03Pandas玩转数据" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03Pandas玩转数据/通过apply进行数据预处理.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.透视表" />
+        <item itemvalue="Python.数据聚合技术Aggregation" />
+        <item itemvalue="Python.数据分组技术GroupBy" />
         <item itemvalue="Python.数据分箱技术Binning" />
         <item itemvalue="Python.时间序列数据的采样和画图" />
-        <item itemvalue="Python.时间序列的操作基础" />
-        <item itemvalue="Python.通过去重进行数据清洗" />
-        <item itemvalue="Python.通过apply进行数据预处理" />
       </list>
     </recent_temporary>
   </component>
@@ -304,24 +348,24 @@
       <option name="presentableId" value="Default" />
       <updated>1557209730666</updated>
       <workItem from="1557209754549" duration="29596000" />
-      <workItem from="1557374877722" duration="10402000" />
+      <workItem from="1557374877722" duration="16645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39998000" />
+    <option name="totallyTimeSpent" value="46241000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1688" y="-6" width="1680" height="1017" extended-state="0" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19444445" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19254279" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32922733" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40770102" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.5334088" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.44170403" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44506726" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -329,7 +373,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32623318" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -342,20 +386,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/dataAnalysis/Lib/site-packages/numpy/core/fromnumeric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="85" selection-start-line="85" selection-end-line="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/app/Anaconda/envs/py36/Lib/pickle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="1574" column="4" selection-start-line="1574" selection-start-column="4" selection-end-line="1574" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/dataAnalysis/Lib/site-packages/numpy/lib/npyio.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
@@ -467,13 +497,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03Pandas玩转数据/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/dataAnalysis/Lib/site-packages/pandas/core/generic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="2885" column="46" selection-start-line="2885" selection-start-column="35" selection-end-line="2885" selection-end-column="46" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1854569746/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -705,8 +728,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03Pandas玩转数据/数据分箱技术Binning.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        <state relative-caret-position="180">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03Pandas玩转数据/city_weather.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/dataAnalysis/Lib/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="7567" column="50" selection-start-line="7567" selection-start-column="50" selection-end-line="7567" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03Pandas玩转数据/数据分组技术GroupBy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03Pandas玩转数据/数据聚合技术Aggregation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/dataAnalysis/Lib/site-packages/pandas/core/reshape/pivot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03Pandas玩转数据/透视表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="73" selection-start-line="12" selection-start-column="73" selection-end-line="12" selection-end-column="73" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
